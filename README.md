@@ -4,7 +4,7 @@ Nombre: Viviana Sofia Feijoo Ochoa
 
  Descripcion
 
-En este trabajo hice varios ejercicios para practicar referencias y punteros en C++. Fui probando poco a poco para entender cómo funcionan, sobre todo la diferencia entre pasar por valor, por referencia y usando punteros.
+En este trabajo hice varios ejercicios para practicar referencias y punteros en. Fui probando poco a poco para entender cómo funcionan, sobre todo la diferencia entre pasar por valor, por referencia y usando punteros.
 
  Archivos
 
